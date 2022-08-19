@@ -1,0 +1,63 @@
+body{
+    background: lightblue;
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav ul{
+    margin: 15px 0 0 15px;
+}
+
+nav li{
+    display: inline;
+    margin: 0px 15px 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #34b4b4;
+    transition: 0.8s;
+}
+
+h1{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 40px;
+}
+
+.tecnologias{
+    width: 940px;
+    margin: 0 auto;
+}
+
+
+.tecnologias li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    padding: 50px 0 ;
+    margin: auto 1%;
+    border: 3px solid #21478d;
+    border-radius: 20px;
+}
+
+.tecnologias h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.icone{
+    height: 80px;
+    width: 80px;
+    padding: 18px;
+}
+

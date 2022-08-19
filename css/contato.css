@@ -1,0 +1,94 @@
+body{
+    background: lightblue;
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav ul{
+    margin: 15px 0 0 15px;
+}
+
+nav li{
+    display: inline;
+    margin: 0px 15px 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #34b4b4;
+    transition: 0.8s;
+}
+
+h1{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 40px;
+}
+
+main{
+    width: 940px;
+    margin: 0 auto;
+}
+
+form{
+    margin: 40px 0;
+}
+
+form label, form legend{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.input-padrao{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50% ;
+}
+
+.checkbox{
+    margin: 30px 0;
+}
+
+.enviar{
+    width: 40%;
+    padding: 15px 0;
+    background-color: #34b4b4;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.enviar:hover{
+    background-color: #1d3d3d;
+    transition: 0.8s;
+    transform: scale(1.1);
+}
+
+table{
+    margin: 20px 0 40px;
+}
+
+thead{
+    background-color: #555555;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+td, th{
+    border: 1px solid black;
+    padding: 8px 15px;
+}
