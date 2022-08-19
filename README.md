@@ -1,6 +1,6 @@
 <small> BR </small>
 
-> Link do github pages:
+> Link do github pages: https://marcoalarcon.github.io/frontEnd-Apresentacao/
 
 Neste projeto foi abordado conceitos básicos de HTML e suas tags semânticas como div, ul, li, nav e tipos de input. No CSS foi utilizado primeiro um reset css, para melhor estilização e para manter um padrão de exibição em todos os navegadores, também foi utilizado o conceito de classes para aplicar alguns estilos.
 
@@ -13,7 +13,7 @@ Espero que gostem! :nerd_face:
 
 <small> EN </small>
 
-> Link for github pages:
+> Link for github pages: https://marcoalarcon.github.io/frontEnd-Apresentacao/
 
 In this project I worked with basic HTML concepts and it's semantic tags, such as div, ul, li, nav and input types. In CSS, first I used a css reset, for better stylization and to mantain a display pattern in all browsers, also I used the concepts of classes to apply some styles in determmined elements.
 
